@@ -1,0 +1,13 @@
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\bin\Debug\net8.0\CourseProvider.Infrastructure.deps.json
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\bin\Debug\net8.0\CourseProvider.Infrastructure.dll
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\bin\Debug\net8.0\CourseProvider.Infrastructure.pdb
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\CourseProvider.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\CourseProvider.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\CourseProvider.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\CourseProvider.Infrastructure.AssemblyInfo.cs
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\CourseProvider.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\CourseProvider.Infrastructure.sourcelink.json
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\CourseProvider.Infrastructure.dll
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\refint\CourseProvider.Infrastructure.dll
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\CourseProvider.Infrastructure.pdb
+C:\Users\Anna\Documents\JavascriptBackendRepos\CourseProvider\CourseProvider.Infrastructure\obj\Debug\net8.0\ref\CourseProvider.Infrastructure.dll
