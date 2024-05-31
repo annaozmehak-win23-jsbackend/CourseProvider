@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\CourseProvider\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16F9A8D2-220E-480D-8156-4DA4E2220E6F}|CourseProvider\\CourseProvider.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\courseprovider\\courseprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16F9A8D2-220E-480D-8156-4DA4E2220E6F}|CourseProvider\\CourseProvider.csproj|solutionrelative:courseprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16F9A8D2-220E-480D-8156-4DA4E2220E6F}|CourseProvider\\CourseProvider.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\courseprovider\\courseprovider\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{16F9A8D2-220E-480D-8156-4DA4E2220E6F}|CourseProvider\\CourseProvider.csproj|solutionrelative:courseprovider\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F9A8D2-220E-480D-8156-4DA4E2220E6F}|CourseProvider\\CourseProvider.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\courseprovider\\courseprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F9A8D2-220E-480D-8156-4DA4E2220E6F}|CourseProvider\\CourseProvider.csproj|solutionrelative:courseprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AC601AE-1714-462C-B941-7B37250D5B9A}|CourseProvider.Infrastructure\\CourseProvider.Infrastructure.csproj|c:\\users\\anna\\documents\\javascriptbackendrepos\\courseprovider\\courseprovider.infrastructure\\graphql\\queries\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 190,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\CourseProvider\\CourseProvider\\Program.cs",
               "RelativeDocumentMoniker": "CourseProvider\\Program.cs",
@@ -38,18 +38,17 @@
               "RelativeToolTip": "CourseProvider\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T12:12:44.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T12:12:44.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\CourseProvider\\CourseProvider\\local.settings.json",
               "RelativeDocumentMoniker": "CourseProvider\\local.settings.json",
               "ToolTip": "C:\\Users\\Anna\\Documents\\JavascriptBackendRepos\\CourseProvider\\CourseProvider\\local.settings.json",
               "RelativeToolTip": "CourseProvider\\local.settings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-28T12:12:30.526Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "CourseProvider.Infrastructure\\GraphQL\\Queries\\Query.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T12:16:23.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T12:16:23.074Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "CourseProvider.Infrastructure\\Services\\CourseService.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAowDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:29:57.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T14:29:57.184Z"
             }
           ]
         }
